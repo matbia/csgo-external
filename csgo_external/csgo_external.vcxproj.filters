@@ -15,37 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="offsets.h">
+    <ClInclude Include="offsets.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="memory.h">
+    <ClInclude Include="memory.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="settings.h">
+    <ClInclude Include="settings.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="engine.h">
+    <ClInclude Include="engine.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="files.h">
+    <ClInclude Include="files.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="misc.h">
+    <ClInclude Include="misc.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="aimbot.h">
+    <ClInclude Include="aimbot.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="triggerbot.h">
+    <ClInclude Include="triggerbot.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="glow.h">
+    <ClInclude Include="glow.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="rcs.h">
+    <ClInclude Include="rcs.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="math.h">
+    <ClInclude Include="math.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">

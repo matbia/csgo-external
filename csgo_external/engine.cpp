@@ -1,5 +1,5 @@
-#include "engine.h"
-#include "settings.h"
+#include "engine.hpp"
+#include "settings.hpp"
 
 Engine* engine = new Engine();
 

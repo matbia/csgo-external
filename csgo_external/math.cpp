@@ -1,4 +1,4 @@
-#include "math.h"
+#include "math.hpp"
 #include <math.h>
 #include <windows.h>
 

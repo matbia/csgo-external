@@ -1,8 +1,8 @@
-#include "aimbot.h"
-#include "triggerbot.h"
-#include "glow.h"
-#include "rcs.h"
-#include "misc.h"
+#include "aimbot.hpp"
+#include "triggerbot.hpp"
+#include "glow.hpp"
+#include "rcs.hpp"
+#include "misc.hpp"
 
 #pragma comment(lib, "user32.lib")
 

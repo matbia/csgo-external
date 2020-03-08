@@ -1,5 +1,5 @@
-#include "settings.h"
-#include "files.h"
+#include "settings.hpp"
+#include "files.hpp"
 #include <stdio.h>
 #include <string>
 #include <windows.h>

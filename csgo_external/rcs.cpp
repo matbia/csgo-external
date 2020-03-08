@@ -1,4 +1,4 @@
-#include "rcs.h"
+#include "rcs.hpp"
 
 RCS* rcs = new RCS();
 

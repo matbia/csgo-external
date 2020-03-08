@@ -19,18 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="aimbot.h" />
-    <ClInclude Include="engine.h" />
-    <ClInclude Include="files.h" />
-    <ClInclude Include="glow.h" />
-    <ClInclude Include="memory.h" />
-    <ClInclude Include="misc.h" />
-    <ClInclude Include="offsets.h" />
-    <ClInclude Include="rcs.h" />
+    <ClInclude Include="aimbot.hpp" />
+    <ClInclude Include="engine.hpp" />
+    <ClInclude Include="files.hpp" />
+    <ClInclude Include="glow.hpp" />
+    <ClInclude Include="memory.hpp" />
+    <ClInclude Include="misc.hpp" />
+    <ClInclude Include="offsets.hpp" />
+    <ClInclude Include="rcs.hpp" />
     <ClInclude Include="resource.h" />
-    <ClInclude Include="settings.h" />
-    <ClInclude Include="triggerbot.h" />
-    <ClInclude Include="math.h" />
+    <ClInclude Include="settings.hpp" />
+    <ClInclude Include="triggerbot.hpp" />
+    <ClInclude Include="math.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="aimbot.cpp" />

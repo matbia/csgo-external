@@ -1,4 +1,4 @@
-#include "glow.h"
+#include "glow.hpp"
 
 GlowESP* glow = new GlowESP();
 

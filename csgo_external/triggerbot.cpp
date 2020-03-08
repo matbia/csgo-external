@@ -1,4 +1,4 @@
-#include "triggerbot.h"
+#include "triggerbot.hpp"
 
 Triggerbot* triggerbot = new Triggerbot();
 
