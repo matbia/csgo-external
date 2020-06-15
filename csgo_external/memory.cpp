@@ -25,7 +25,7 @@ void Mem::GetProcessHandle()
 	bool csgoFound = false;
 	while (!csgoFound)
 	{
-		//Loop through processes until csgo.exe if found
+		//Loop through processes until csgo.exe is found
 		do
 		{
 			if (!strcmp(ProcEntry.szExeFile, "csgo.exe"))
